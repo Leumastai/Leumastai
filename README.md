@@ -2,7 +2,7 @@
 
 <!--
 **Leumastai/Leumastai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Hi
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### I'm Samuel a machine learning developer. I love working on computer vision and reinforcement learning projects. I've worked on projects in agriculture, climate and tabular data. I write on (medium)[https://medium.com/@samuel-taiwo] about ethical AI and responsible innovation for data scientist.
