@@ -29,7 +29,10 @@ Here are some ideas to get you started:
 ### Contacts
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/samuel-taiwo-oladipupo)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://www.twitter.com/leumas_tai)
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=whit&style=for-the-bagde)](https://www.twitter.com/leumas_tai)
-[![Telegram Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://www.twitter.com/leumas_tai)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=whit&style=for-the-bagde)](https://www.discord.com/leumas_tai#2064)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=flat-square)](https://t.me/leumastai)
 
+<!--
+https://aleksandarpopovic.com/Easiest-way-to-set-up-your-Github-profile-page/ <-- To understand how to use sheild.io as seen above
 <img alt= "LinkedIn" src="https://drive.google.com/uc?export=view&id=1w-HHyl2Q-f81jf1_EAKKXlCILOWClo1M" width="20" height="20" onclick="document.location.href='https://www.linkedin.com/in/samuel-taiwo-oladipupo/'"> <img alt="Discord" src="https://drive.google.com/uc?export=view&id=1DQzUPy6wIX1OFyYNSUr3HIpuA-eUAHHk" width="20" height="20"> <img alt="Twitter" src="https://drive.google.com/uc?export=view&id=1YLb4oPYFS_sNqfRqybjbmevc45-rloQf" width="20" height="20">
+-->
