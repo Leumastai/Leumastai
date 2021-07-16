@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://drive.google.com/file/d/1pQ3kN1sbvFXsMm1RGFCdNMB0_q2gEuXH/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=1pQ3kN1sbvFXsMm1RGFCdNMB0_q2gEuXH)
 
 #### I'm Samuel a machine learning developer. I love working on computer vision and reinforcement learning projects. I've worked on projects in agriculture, climate and tabular data. I write on [medium](https://medium.com/@samuel-taiwo) about ethical AI and responsible innovation for data scientist.
 
