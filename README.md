@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-![image](https://drive.google.com/uc?export=view&id=1yd6ZGZu0FlGo8Bes-ww6H6ICFgR4Vnl7)
-
-#### I'm Samuel a machine learning developer. I love working on computer vision and reinforcement learning projects. I've worked on projects in agriculture, climate and tabular data. I write on [medium](https://medium.com/@samuel-taiwo) about ethical AI and responsible innovation for data scientist.
+![](https://drive.google.com/uc?export=view&id=1yd6ZGZu0FlGo8Bes-ww6H6ICFgR4Vnl7)
+I'm Samuel a machine learning developer. I love working on computer vision and reinforcement learning projects. I've worked on projects in agriculture, climate and tabular data. I write on [medium](https://medium.com/@samuel-taiwo) about ethical AI and responsible innovation for data scientist.
 
 <!--
 **Leumastai/Leumastai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +22,4 @@ Here are some ideas to get you started:
 -->
 
 ### Tool 🧰
-
+![](https://drive.google.com/uc?export=view&id=1jwNbSFAGlk8e8B0xPfSpFRBscFbTu0qa)
