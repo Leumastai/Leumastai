@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 -->
 
 ### Tool 🧰
-![](https://drive.google.com/uc?export=view&id=1jwNbSFAGlk8e8B0xPfSpFRBscFbTu0qa)
+<img src="https://drive.google.com/uc?export=view&id=1jwNbSFAGlk8e8B0xPfSpFRBscFbTu0qa" width="100" height="100">
