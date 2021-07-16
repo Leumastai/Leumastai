@@ -7,8 +7,8 @@ I'm Samuel a machine learning developer. I love working on computer vision and r
 **Leumastai/Leumastai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Hi
 
--->
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on integrating machine learning sloutions to agriculture and climate change
 - 🌱 I’m currently learning DevOps
