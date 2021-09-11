@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on integrating machine learning sloutions to agriculture and climate change
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning Google Cloud
 - 👯 I’m looking to collaborate on intresting ML projects in computer vision and reinforcement learning
 <!--
 - 🤔 I’m looking for help with ...
